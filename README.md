@@ -3,15 +3,20 @@
 Driver drowsiness detection is a car safety technology which helps prevent accidents caused by the driver getting drowsy. Various studies have suggested that around 20% of all road accidents are fatigue-related, up to 50% on certain roads.
 This project detects the eyes and yawn of the driver and generates an alert when the driver closes his/her eyes from more than 3-4 secs
 
-## Description
+## Description 📚
 A computer vision system that can automatically detect driver drowsiness in a real-time video stream and then generate an alarm if the driver appears to be drowsy.
 
-## Algorithm
+## Algorithm 💻
 Faster RCNN is used with CNN architecture of InceptionV2.
 The training is done on more than 3000 images for 4 classes - "Open Eyes" , "Close Eyes" , "Yawn" , "Not Yawning"
 The training is done for 60000 steps per epoch. 
 
 
+## Prediction with image
+<img src="WhatsApp Image 2021-11-29 at 16.04.14.jpeg" width= 500 height= 500>
+
+## Prediction with OpenCV
+<img src="detect gif.gif">
 
 
 ## Steps followed
@@ -36,8 +41,3 @@ The training is done for 60000 steps per epoch.
 - TFOD 
 - Open CV
 - Pycharm
-## Prediction with image
-<img src="WhatsApp Image 2021-11-29 at 16.04.14.jpeg">
-
-## Prediction with OpenCV
-<img src="detect gif.gif">
