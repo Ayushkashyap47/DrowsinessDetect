@@ -30,4 +30,7 @@ This project detects the eyes and yawn of the driver and generates an alert when
 - TFOD 
 - Open CV
 - Pycharm
+## Prediction with image
 
+## Prediction with OpenCV
+<img src="detect gif.gif">
