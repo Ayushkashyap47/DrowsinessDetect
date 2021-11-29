@@ -32,5 +32,6 @@ This project detects the eyes and yawn of the driver and generates an alert when
 - Pycharm
 ## Prediction with image
 <img src="WhatsApp Image 2021-11-29 at 16.04.14.jpeg">
+
 ## Prediction with OpenCV
 <img src="detect gif.gif">
